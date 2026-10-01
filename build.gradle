@@ -4,9 +4,9 @@ plugins {
 }
 
 group = "me.fring"
-version = System.getenv("PRISMSHOT_VERSION") ?: "1.3.0-fabric-26.3"
+version = System.getenv("PRISMSHOT_VERSION") ?: "${mod_version}-fabric-${minecraft_version}"
 
-String minecraft_version = "26.3"
+String minecraft_version = "${minecraft_version}"
 
 repositories {
     maven {

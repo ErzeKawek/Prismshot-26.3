@@ -637,6 +637,7 @@ public class GalleryScreen extends Screen {
             p.getErrorStream().close();
             p.getOutputStream().close();
         } catch (IOException ignored) {
+
         }
     }
 
