@@ -28,7 +28,7 @@ jobs:
       - name: Upload Release Artifact
         uses: softprops/action-gh-release@v1
         with:
-          files: build/libs/prismshot-${{ github.event.release.tag_name }}.jar
+          files: build/libs/voxelshot-${{ github.event.release.tag_name }}.jar
           tag_name: ${{ github.event.release.tag_name }}
       - name: Upload to external sites
         run: ./gradlew curseforge modrinth

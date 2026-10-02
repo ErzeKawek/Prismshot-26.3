@@ -1,0 +1,13 @@
+{
+  "voxelshot.config.title": "Voxelshot",
+  "voxelshot.config.category": "Configuração da captura de tela",
+  "voxelshot.config.custom_file_name": "Usar formato de nome de arquivo diferente",
+  "voxelshot.config.custom_file_name.tooltip": "Use %time% para o tempo,\n %world% para o mundo ou nome do servidor",
+  "voxelshot.config.override_screenshot_key": "Substitua a captura de tela normal com Voxelshot",
+  "voxelshot.config.save_file": "Salve o arquivo de captura de tela",
+  "voxelshot.config.width": "Largura da captura de tela",
+  "voxelshot.config.height": "Altura da captura de tela",
+  "voxelshot.config.delay": "Atraso de captura",
+  "voxelshot.config.delay.tooltip": "Quadros para aguardar após o redimensionamento. Ajuste para melhor exposição com shaders",
+  "key.voxelshot.screenshot": "Captura de tela grande"
+}

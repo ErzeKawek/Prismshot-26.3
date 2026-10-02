@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.erzekawek.voxelshot.mixins",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "net.erzekawek.voxelshot.mixins.HudAccessor",
+    "net.erzekawek.voxelshot.mixins.KeyboardMixin",
+    "net.erzekawek.voxelshot.mixins.MinecraftClientMixin",
+    "net.erzekawek.voxelshot.mixins.WindowAccessor",
+    "net.erzekawek.voxelshot.mixins.WindowMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

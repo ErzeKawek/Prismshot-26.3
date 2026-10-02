@@ -1,0 +1,13 @@
+{
+  "voxelshot.config.title": "Voxelshot",
+  "voxelshot.config.category": "Screenshot Größe",
+  "voxelshot.config.custom_file_name": "Anderes Dateinamenformat verwenden",
+  "voxelshot.config.custom_file_name.tooltip": "Verwende %time% für die Uhrzeit,\n %world% für den Welt- oder Server Bild-namen",
+  "voxelshot.config.override_screenshot_key": "Normalen Screenshot mit Voxelshot überschreiben",
+  "voxelshot.config.save_file": "Speichert die Screenshot-Datei",
+  "voxelshot.config.width": "Screenshot Breite",
+  "voxelshot.config.height": "Screenshot Höhe",
+  "voxelshot.config.delay": "Aufnahmeverzögerung",
+  "voxelshot.config.delay.tooltip": "Bilder die sekunde, die nach der Größenänderung warten. Diesen wert anpassen für bessere Belichtungszeiten mit Shadern",
+  "key.voxelshot.screenshot": "Großes Bild aufnehmen"
+}

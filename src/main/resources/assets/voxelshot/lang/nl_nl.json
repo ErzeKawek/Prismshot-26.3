@@ -1,0 +1,16 @@
+{
+  "voxelshot.config.title": "Voxelshot",
+  "voxelshot.config.category": "Screenshot configuratie",
+  "voxelshot.config.custom_file_name": "Gebruik een ander formaat voor bestandsnaam",
+  "voxelshot.config.custom_file_name.tooltip": "Gebruik %time% voor de tijd,\n %world% voor de naam van de wereld of server",
+  "voxelshot.config.override_screenshot_key": "Vervang normale screenshot met Voxelshot",
+  "voxelshot.config.hide_hud": "Verberg de HUD automatisch",
+  "voxelshot.config.save_file": "Sla het screenshotbestand op",
+  "voxelshot.config.disable_gui_scaling": "Zet GUI schaalvergroting uit",
+  "voxelshot.config.width": "Screenshot breedte",
+  "voxelshot.config.height": "Screenshot hoogte",
+  "voxelshot.config.delay": "Opname vertraging",
+  "voxelshot.config.delay.tooltip": "Frames te wachten na het wijzigen van de grootte. Verander voor betere belichting met shaders",
+  "voxelshot.config.file_format": "Bestandsformaat",
+  "key.voxelshot.screenshot": "Neem een grote screenshot"
+}

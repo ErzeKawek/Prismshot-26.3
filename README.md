@@ -1,32 +1,22 @@
-# Prismshot
+# Voxelshot
 
-A modern high-resolution screenshot mod for Minecraft with support for **Fabric** and **NeoForge**.
+A Fork of Prismshot by Fring-BS which is based off of Fabrishot by ramidzkh
 
-Prismshot started as a fork of Fabrishot, but has since evolved into its own project with additional features such as an integrated Screenshot Gallery and multi-loader support.
+This Fork Aims to give support for the latest versions (Including Shapshots).
 
-Repository: https://github.com/Fring-BS/Prismshot
+Take large screenshots because why not.
 
-## Features
+Use Mod Menu and Cloth Config to change the resolution from the default (4K; 3840x2160)
 
-- High-resolution screenshots
-- Integrated Screenshot Gallery
-- Fabric & NeoForge support
-- Multiple output formats
-- Configurable resolution and capture settings
+### Keys
 
-## Author
+| Action     | Key Bine |
+|------------|:--------:|
+| Screenshot |    F9    |
+| Config     |    M     |
+| Gallery    |    U     |
 
-Fring
-
-## Credits
-
-Prismshot is based on the excellent **Fabrishot** by Ramid Khan.
-
-The original project is licensed under the MIT License, and Prismshot continues to comply with the terms of that license.
-
-Original project:
-https://github.com/ramidzkh/fabrishot
-
-## License
-
-MIT
+### Authors
+- Ramidzkh (Fabrishot)
+- Fring-BS (Prismshot)
+- ErzeKawek (Voxelshot)

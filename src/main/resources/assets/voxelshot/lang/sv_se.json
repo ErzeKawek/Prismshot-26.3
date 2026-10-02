@@ -1,0 +1,16 @@
+{
+  "voxelshot.config.title": "Voxelshot",
+  "voxelshot.config.category": "Skärmdumps konfiguration",
+  "voxelshot.config.custom_file_name": "Använd ett annat filfromat",
+  "voxelshot.config.custom_file_name.tooltip": "Använd %time% för tid,\n %world% för värld eller servernamn",
+  "voxelshot.config.override_screenshot_key": "Override normal screenshot with Voxelshot",
+  "voxelshot.config.hide_hud": "Göm HUD automatiskt",
+  "voxelshot.config.save_file": "Spara skärmdumpsfilen",
+  "voxelshot.config.disable_gui_scaling": "Disable GUI scaling",
+  "voxelshot.config.width": "Skärmdumpsbredd",
+  "voxelshot.config.height": "Skärmdumpshöjd",
+  "voxelshot.config.delay": "Fördröjning för bild",
+  "voxelshot.config.delay.tooltip": "Frames att vänta efter resizing. Ändra för bättre exponering med shaders",
+  "voxelshot.config.file_format": "Filformat",
+  "key.voxelshot.screenshot": "Ta stor skärmdump"
+}

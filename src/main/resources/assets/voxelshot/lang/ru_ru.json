@@ -1,0 +1,16 @@
+{
+  "voxelshot.config.title": "Voxelshot",
+  "voxelshot.config.category": "Настройки скриншота",
+  "voxelshot.config.custom_file_name": "Формат имени файла",
+  "voxelshot.config.custom_file_name.tooltip": "Используйте %time% для времени,\n%world% для имени мира или сервера",
+  "voxelshot.config.override_screenshot_key": "Заменить обычный скриншот на Voxelshot",
+  "voxelshot.config.hide_hud": "Автоматически скрывает интерфейс",
+  "voxelshot.config.save_file": "Сохранять файл скриншота",
+  "voxelshot.config.disable_gui_scaling": "Отключить масштабирование интерфейса",
+  "voxelshot.config.width": "Ширина скриншота",
+  "voxelshot.config.height": "Высота скриншота",
+  "voxelshot.config.delay": "Задержка скриншота",
+  "voxelshot.config.delay.tooltip": "Задержка кадров после изменения размера. Настройка для лучшей экспозиции шейдеров",
+  "voxelshot.config.file_format": "Формат файла",
+  "key.voxelshot.screenshot": "Сделать большой скриншот"
+}

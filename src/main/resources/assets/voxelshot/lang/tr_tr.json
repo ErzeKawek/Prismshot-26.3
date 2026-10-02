@@ -1,0 +1,16 @@
+{
+  "voxelshot.config.title": "Voxelshot",
+  "voxelshot.config.category": "Ekran görüntüsü ayarları",
+  "voxelshot.config.custom_file_name": "Başka dosya ismi formatı kullan",
+  "voxelshot.config.custom_file_name.tooltip": "Zaman için %time%,\n dünya ya da sunucu adı için %world% kullanın",
+  "voxelshot.config.override_screenshot_key": "Normal ekran görüntüsünü Voxelshot ile değiştir",
+  "voxelshot.config.hide_hud": "HUD'ı otomatik olarak gizle",
+  "voxelshot.config.save_file": "Ekran görüntüsü dosyasını kaydet",
+  "voxelshot.config.disable_gui_scaling": "Arayüz ölçeğini kapat",
+  "voxelshot.config.width": "Ekran görüntüsü eni",
+  "voxelshot.config.height": "Ekran görüntüsü boyu",
+  "voxelshot.config.delay": "Yakalama gecikmesi",
+  "voxelshot.config.delay.tooltip": "Yeniden boyutlandırmadan sonra beklenecek kare. Shaderlar ile daha iyi pozlama için kurcalayabilirsiniz",
+  "voxelshot.config.file_format": "Dosya formatı",
+  "key.voxelshot.screenshot": "Büyük Ekran Görüntüsü Alma"
+}

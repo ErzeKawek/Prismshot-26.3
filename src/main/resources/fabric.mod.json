@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "id": "prismshot",
+  "id": "voxelshot",
   "version": "${version}",
-  "icon": "assets/prismshot/icon.png",
+  "icon": "assets/voxelshot/icon.png",
   "environment": "client",
   "mixins": [
-    "prismshot.mixins.json"
+    "voxelshot.mixins.json"
   ],
   "entrypoints": {
     "client": [
-      "me.fring.prismshot.Prismshot"
+      "net.erzekawek.voxelshot.Voxelshot"
     ],
     "modmenu": [
-      "me.fring.prismshot.config.ModMenuBridge"
+      "net.erzekawek.voxelshot.config.ModMenuBridge"
     ]
   },
-  "name": "Prismshot",
+  "name": "Voxelshot",
   "description": "Take high resolution screenshots because why not. Fabric fork of Fabrishot.",
   "depends": {
     "minecraft": ">=${minecraft_version}",
@@ -26,14 +26,14 @@
     "cloth-config2": "*"
   },
   "authors": [
-    "Fring"
+    "ramidzkh (Fabrishot)"
   ],
   "license": [
     "MIT"
   ],
   "contact": {
-    "homepage": "https://github.com/Fring-BS/Prismshot#readme",
-    "issues": "https://github.com/Fring-BS/Prismshot/issues",
-    "sources": "https://github.com/Fring-BS/Prismshot"
+    "homepage": "https://github.com/ErzeKawek/Voxelshot#readme",
+    "issues": "https://github.com/ErzeKawek/Voxelshot/issues",
+    "sources": "https://github.com/ErzeKawek/Voxelshot"
   }
 }

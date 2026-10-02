@@ -1,0 +1,16 @@
+{
+  "voxelshot.config.title": "Voxelshot",
+  "voxelshot.config.category": "スクリーンショット設定",
+  "voxelshot.config.custom_file_name": "ファイル名テンプレート",
+  "voxelshot.config.custom_file_name.tooltip": "「%time%」は撮影日時に、「%world%」はワールド名またはサーバー名に置き換えられます。",
+  "voxelshot.config.override_screenshot_key": "通常のスクリーンショットを置き換える",
+  "voxelshot.config.hide_hud": "GUIを自動で隠す",
+  "voxelshot.config.save_file": "スクリーンショットをファイルに保存",
+  "voxelshot.config.disable_gui_scaling": "GUIを拡大しない",
+  "voxelshot.config.width": "スクリーンショットの幅",
+  "voxelshot.config.height": "スクリーンショットの高さ",
+  "voxelshot.config.delay": "露光フレーム数",
+  "voxelshot.config.delay.tooltip": "撮影前に待機するフレーム数。シェーダーの露出やボケを微調整できます。",
+  "voxelshot.config.file_format": "ファイル形式",
+  "key.voxelshot.screenshot": "高解像度スクリーンショットの撮影"
+}

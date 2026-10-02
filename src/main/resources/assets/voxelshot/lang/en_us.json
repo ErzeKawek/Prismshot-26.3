@@ -1,0 +1,18 @@
+{
+  "voxelshot.config.title": "Voxelshot",
+  "voxelshot.config.category": "Screenshot Configuration",
+  "voxelshot.config.custom_file_name": "Use different filename format",
+  "voxelshot.config.custom_file_name.tooltip": "Use %time% for the time,\n %world% for world or server name",
+  "voxelshot.config.override_screenshot_key": "Override normal screenshot with Voxelshot",
+  "voxelshot.config.hide_hud": "Automatically hide the HUD",
+  "voxelshot.config.save_file": "Save the screenshot file",
+  "voxelshot.config.width": "Screenshot width",
+  "voxelshot.config.height": "Screenshot height",
+  "voxelshot.config.delay": "Capture delay",
+  "voxelshot.config.delay.tooltip": "Frames to wait after resizing. Tweak for better exposure with shaders",
+  "voxelshot.config.file_format": "File format",
+  "key.voxelshot.screenshot": "Take large screenshot",
+  "key.voxelshot.config": "Open Voxelshot Config",
+  "key.voxelshot.gallery": "Open Screenshot Gallery",
+  "voxelshot.gallery.title": "Screenshot Gallery"
+}

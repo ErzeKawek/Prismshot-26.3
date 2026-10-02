@@ -1,0 +1,13 @@
+{
+  "voxelshot.config.title": "Voxelshot",
+  "voxelshot.config.category": "Розмір знімку екрана",
+  "voxelshot.config.custom_file_name": "Використовувати інший формат назви файлу",
+  "voxelshot.config.custom_file_name.tooltip": "Умовні позначення:\n%time% - час створення знімку\n%world% - назва світу або серверу",
+  "voxelshot.config.override_screenshot_key": "Замінити стандартний знімок на Voxelshot",
+  "voxelshot.config.save_file": "Зберегти файл знімка",
+  "voxelshot.config.width": "Ширина знімка",
+  "voxelshot.config.height": "Висота знімка",
+  "voxelshot.config.delay": "Затримка знімка",
+  "voxelshot.config.delay.tooltip": "Кількість кадрів очікування після зміни розміру. Змінюйте цей параметр для кращої експозиції з шейдерами",
+  "key.voxelshot.screenshot": "Зробити великий знімок"
+}

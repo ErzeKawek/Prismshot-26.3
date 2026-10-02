@@ -1,0 +1,16 @@
+{
+  "voxelshot.config.title": "Voxelshot",
+  "voxelshot.config.category": "螢幕擷取畫面設定",
+  "voxelshot.config.custom_file_name": "使用不同的檔案名稱格式",
+  "voxelshot.config.custom_file_name.tooltip": "用 %time% 代替時間，\n用 %world% 代替世界或伺服器名稱",
+  "voxelshot.config.override_screenshot_key": "用 Voxelshot 覆蓋一般螢幕擷取畫面",
+  "voxelshot.config.hide_hud": "自動隱藏 HUD",
+  "voxelshot.config.save_file": "儲存螢幕擷取畫面檔案",
+  "voxelshot.config.disable_gui_scaling": "停用介面大小",
+  "voxelshot.config.width": "螢幕擷取畫面寬度",
+  "voxelshot.config.height": "螢幕擷取畫面高度",
+  "voxelshot.config.delay": "螢幕擷取畫面延遲",
+  "voxelshot.config.delay.tooltip": "調整大小後等待 FPS，使用光影包調整曝光以達到更好的效果",
+  "voxelshot.config.file_format": "檔案格式",
+  "key.voxelshot.screenshot": "高解析度擷取螢幕畫面"
+}

@@ -1,0 +1,13 @@
+{
+  "voxelshot.config.title": "Voxelshot",
+  "voxelshot.config.category": "Kuvankaappauksen asetukset",
+  "voxelshot.config.custom_file_name": "Käytä omaa tiedostonimimuotoa",
+  "voxelshot.config.custom_file_name.tooltip": "%time% korvataan ajalla,\n %world% maailman tai palvelimen nimellä",
+  "voxelshot.config.override_screenshot_key": "Korvaa tavallinen kuvankaappaus Voxelshotilla",
+  "voxelshot.config.save_file": "Tallenna kuvankaappaustiedosto",
+  "voxelshot.config.width": "Kuvankaappauksen leveys",
+  "voxelshot.config.height": "Kuvankaappauksen korkeus",
+  "voxelshot.config.delay": "Kaappauksen viive",
+  "voxelshot.config.delay.tooltip": "Skaalauksen jälkeen odotettavien kuvien määrä. Säädä parempaa valotusta varten varjostimien kanssa",
+  "key.voxelshot.screenshot": "Ota suuri kuvankaappaus"
+}

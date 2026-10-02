@@ -1,0 +1,16 @@
+{
+  "voxelshot.config.title": "Voxelshot",
+  "voxelshot.config.category": "Configuration de capture d'écran",
+  "voxelshot.config.custom_file_name": "Utiliser un format de nom de fichier différent",
+  "voxelshot.config.custom_file_name.tooltip": "Utilisez %time% pour l'heure,\n %world% pour le monde ou le nom du serveur",
+  "voxelshot.config.override_screenshot_key": "Remplacer la capture d'écran normale par Voxelshot",
+  "voxelshot.config.hide_hud": "Masquer automatiquement l'interface utilisateur (HUD)",
+  "voxelshot.config.save_file": "Enregistrer le fichier de capture d'écran",
+  "voxelshot.config.disable_gui_scaling": "Désactiver le redimensionnement de l'interface utilisateur (GUI)",
+  "voxelshot.config.width": "Largeur de la capture d'écran",
+  "voxelshot.config.height": "Hauteur de la capture d'écran",
+  "voxelshot.config.delay": "Délai de capture",
+  "voxelshot.config.delay.tooltip": "Images à attendre après le redimensionnement. Ajustez pour une meilleure exposition avec des shaders",
+  "voxelshot.config.file_format": "Format de fichier",
+  "key.voxelshot.screenshot": "Prendre une grande capture d'écran"
+}

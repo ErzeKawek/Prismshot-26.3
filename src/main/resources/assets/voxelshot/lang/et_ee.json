@@ -1,0 +1,13 @@
+{
+  "voxelshot.config.title": "Voxelshot",
+  "voxelshot.config.category": "Kuvatõmmise suurus",
+  "voxelshot.config.custom_file_name": "Use different filename format",
+  "voxelshot.config.custom_file_name.tooltip": "Use %time% for the time,\n %world% for world or server name",
+  "voxelshot.config.override_screenshot_key": "Tee tavalise kuvatõmmise asemel Voxelshoti kuvatõmmis",
+  "voxelshot.config.save_file": "Save the screenshot file",
+  "voxelshot.config.width": "Kuvatõmmise laius",
+  "voxelshot.config.height": "Kuvatõmmise kõrgus",
+  "voxelshot.config.delay": "Capture delay",
+  "voxelshot.config.delay.tooltip": "Frames to wait after resizing. Tweak for better exposure with shaders",
+  "key.voxelshot.screenshot": "Loo suur kuvatõmmis"
+}

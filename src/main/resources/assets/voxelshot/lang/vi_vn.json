@@ -1,0 +1,16 @@
+{
+  "voxelshot.config.title": "Voxelshot",
+  "voxelshot.config.category": "Cấu hình ảnh chụp màn hình",
+  "voxelshot.config.custom_file_name": "Sử dụng định dạng tên tệp khác",
+  "voxelshot.config.custom_file_name.tooltip": "Sử dụng %time% cho thời gian,\n %world% cho tên thế giới hoặc máy chủ",
+  "voxelshot.config.override_screenshot_key": "Ghi đè ảnh chụp màn hình bình thường bằng Voxelshot",
+  "voxelshot.config.hide_hud": "Tự động ẩn HUD",
+  "voxelshot.config.save_file": "Lưu tệp ảnh chụp màn hình",
+  "voxelshot.config.disable_gui_scaling": "Tắt mở rộng GUI",
+  "voxelshot.config.width": "Chiều rộng ảnh chụp màn hình",
+  "voxelshot.config.height": "Chiều cao ảnh chụp màn hình",
+  "voxelshot.config.delay": "Độ trễ chụp",
+  "voxelshot.config.delay.tooltip": "Số khung hình chờ sau khi thay đổi kích thước. Tinh chỉnh để hiển thị tốt hơn với shader",
+  "voxelshot.config.file_format": "Định dạng tệp",
+  "key.voxelshot.screenshot": "Chụp ảnh màn hình lớn"
+}
