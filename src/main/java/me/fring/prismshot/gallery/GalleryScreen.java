@@ -24,6 +24,7 @@
 
 package me.fring.prismshot.gallery;
 
+import com.mojang.blaze3d.Blaze3D;
 import com.mojang.blaze3d.platform.InputConstants;
 import me.fring.prismshot.config.Config;
 import net.minecraft.util.Util;
@@ -607,38 +608,11 @@ public class GalleryScreen extends Screen {
 
     private void openSelected() {
         if (selectedIndex < 0 || selectedIndex >= filteredScreenshots.size()) return;
-        openInSystem(filteredScreenshots.get(selectedIndex).getFile());
+        Blaze3D.openPath(filteredScreenshots.get(selectedIndex).getFile());
     }
 
     private void openFolder() {
-        openInSystem(screenshotsDir);
-    }
-
-    private static void openInSystem(Path path) {
-        URI uri = path.toUri();
-        String os = System.getProperty("os.name").toLowerCase(Locale.ROOT);
-        String[] cmd;
-
-        if (os.contains("win")) {
-            cmd = new String[]{"rundll32", "url.dll,FileProtocolHandler", uri.toString()};
-        } else if (os.contains("mac")) {
-            cmd = new String[]{"open", uri.toString()};
-        } else {
-            String s = uri.toString();
-            if ("file".equals(uri.getScheme())) {
-                s = s.replace("file:", "file://");
-            }
-            cmd = new String[]{"xdg-open", s};
-        }
-
-        try {
-            Process p = new ProcessBuilder(cmd).start();
-            p.getInputStream().close();
-            p.getErrorStream().close();
-            p.getOutputStream().close();
-        } catch (IOException ignored) {
-
-        }
+        Blaze3D.openPath(screenshotsDir);
     }
 
     private void copyPath() {
